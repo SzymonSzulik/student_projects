@@ -1,0 +1,12 @@
+/
+/home/uczen/ ->~
+cd ~
+ls -> wyswietla katalogi
+mcedit -> edytor
+touch -> tworzy plik
+mkdir nazwa_folderu -> tworzy folder
+rm -r nazwa_folderu -> usuwa folder z zawartoscia
+rm nazwa_pliku.txt -> usuwa plik
+chmod +x nazwa_programu -> nadanie praw do wykonywania
+./program -> kompiluje program
+
