@@ -3,10 +3,9 @@ using namespace std;
 
 int main(){
 ////////////////////////////////////////////////////////////////////////////////////////////////
-while(0==0){
 int s[3][3] ={ {0,0,0}, {0,0,0}, {0,0,0} };
 
-cout<<'\n'<<"Ile statkow chcesz postawic?"<<'\n';
+cout<<"Podaj ile statków chcesz postawić"<<'\n';
 int q;
 cin>>q;
 
@@ -38,6 +37,5 @@ cout<<'\n'<<"PUDLO :("<<'\n';
 }
 }
 cout<<'\n'<<"KONIEC";
-}
 	return 0;
 }
