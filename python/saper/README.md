@@ -1,7 +1,7 @@
 # saper
 gra saper
 
-##założenia:
+## założenia:
 - rozmiar 3x3
 - po starcie program wypełnia w sposób losowy tablice bombami (2 bomby)
 - użytkownik przystępuje do odkrywania pól bez bomb podając ich współrzędne x,y (pierwsze pole 1 nie 0) najpierw podajemy x, później y
